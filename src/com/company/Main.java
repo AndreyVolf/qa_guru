@@ -8,5 +8,6 @@ public class Main {
         System.out.println("slow_branch");
     }
     public static void another () {
-      System.out.println("another method!");  
+      System.out.println("another method!!!");
 }
+
